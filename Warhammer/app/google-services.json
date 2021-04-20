@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "258657825399",
+    "firebase_url": "https://warhammerhelper-64ecf-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "warhammerhelper-64ecf",
+    "storage_bucket": "warhammerhelper-64ecf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258657825399:android:5d4f052893f485caef4c72",
+        "android_client_info": {
+          "package_name": "com.example.warhammer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258657825399-dsrq0mlbi5p7v6976g8lngibg5mee5l2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfKpaMONujOMxvYmAvx3gRHCrSInEp8W0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258657825399-dsrq0mlbi5p7v6976g8lngibg5mee5l2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
